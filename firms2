@@ -1,0 +1,14 @@
+<!DOCKTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Formularz2</title>
+</head>
+	<body>
+	<form action="liczba.php" method="POST">
+	<b>Podaj imię</b> <input type="text" name="imie" size="30"/><br/>
+	<b>Podaj liczbę</b>  <input type="text" name="liczba" size="30"/><br/>
+	<input type="submit" value="Wyślij"/>
+	<input type="reset" value="Kasuj dane"/><br/></form>
+	</body>
+</html>
