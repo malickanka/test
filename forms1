@@ -7,8 +7,8 @@
 	<body>
 	<form action="start.php" method="POST">
 	Podaj imię             <input type="text" name="imie" size="30"/><br/>
-	<b>Podaj liczbę A</b>  <input type="text" name="liczba1" size="30"/><br/>
-	<b>Podaj liczbę B</b>  <input type="text" name="liczba2" size="30"/><br/>
+	<b>Podaj liczbę AAA</b>  <input type="text" name="liczba1" size="30"/><br/>
+	<b>Podaj liczbę BBB</b>  <input type="text" name="liczba2" size="30"/><br/>
 	
 	<input type="submit" value="Wyślij"/>
 	<input type="reset" value="Kasuj dane"/><br/></form>
